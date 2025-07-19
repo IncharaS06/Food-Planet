@@ -34,11 +34,6 @@ Although it's a frontend-only prototype, it could evolve into a fully functional
 - Adding cart persistence and order tracking
 - Integrating real restaurant data via APIs
 
-## 👩‍💻 Authors & Credits
-
-Crafted with love and creativity by participants of **Infothon 2.0** 💚  
-Thanks to open-source assets and inspirations from modern UI patterns.
-
 ---
 
 Enjoy exploring Food Planet, and feel free to fork or adapt the project to spice up your portfolio!
